@@ -1,0 +1,2 @@
+# mavenSample
+Maven Folder structure
